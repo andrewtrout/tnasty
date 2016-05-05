@@ -1,0 +1,5 @@
+==TNASTY.COM
+
+A text experiment with the amazing library ---> threejs https://github.com/mrdoob/three.js
+
+A demo of this code is located at tnasty.com
